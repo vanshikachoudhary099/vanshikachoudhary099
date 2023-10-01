@@ -1,9 +1,16 @@
+![MasterHead](https://planetindia.net/wp-content/uploads/2014/07/Web-Development.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Vanshika Choudhary</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.moople.in/blog/wp-content/uploads/2021/05/h1-1-600x429.jpg")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikachoudhary099&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikachoudhary099" /> </p>
 
 - 🔭 I’m currently working on **Track Back**
+
 
 - 🌱 I’m currently learning **Backend Web development**
 
